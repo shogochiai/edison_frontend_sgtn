@@ -1,6 +1,6 @@
 (function(){
 
-  var milkcocoa = new MilkCocoa("");
+var milkcocoa = new MilkCocoa("leadibrvljz3.mlkcca.com");
 var ds_axl = dataStore("axl");
 var ds_gyl = dataStore("gyl");
 
